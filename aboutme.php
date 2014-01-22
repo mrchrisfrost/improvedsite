@@ -23,6 +23,9 @@
                           
             </tr>
    </table></p>
+   
+   
+  
    <div class="content">
        <img src="me.jpg"/> <img src="james.jpg"height="377px"/> <img src="vaderclaus.jpg"height="377px"/>
    </div>
@@ -35,7 +38,7 @@
            deterred me from doing what I wanted to do, even when creating those challenges just to see if I could overcome them was<br>
            a self action. The picture next to it is another picture of strength, taken outside a hall at my mother's funeral. Even if times <br>
            of pure sadness I keep moving forward. Next we have VADER KLAUS, in crowds where everyone is the same, I find a way to <br>stand out.
-           The eagle on my splash page symbolizes how I feel at right now I'm spreading my wings getting ready to take <br>that dive and capture
+           The eagle on my splash page symbolizes how I feel that right now I'm spreading my wings getting ready to take <br>that dive and capture
            my pray. The background here shows that I'm willing to get down and dirty to do it. <br> And lastly the contact page... <h2>The World is my Objective!</h2>
            
        </p>
