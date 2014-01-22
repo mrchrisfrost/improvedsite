@@ -19,8 +19,8 @@
                 <td><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;
                     <a href="http://www.facebook.com/chris.frost.3110"style="color: red">Facebook
                     </a></td>
-                    <td><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="http://www.twitter.com/thechrisfrost""style="color: red">Twitter</a>
+                    <td>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="http://www.twitter.com/thechrisfrost"style="color: red">Twitter</a>
                           
             </tr>
         </table>
