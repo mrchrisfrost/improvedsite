@@ -19,10 +19,10 @@
         <h1><center><a href="#"style="color: white">Contact Information</a>&#8203;</center></h1>
         <ul>  <lil>
             </lil>
-            <lil><h2><center><a href="chrisffoster@gmail.com">E-Mail: Chrisffoster@gmail.com</a>
+            <lil><h2><center><a href="mailto:chrisffoster@gmail.com">E-Mail: Chrisffoster@gmail.com</a>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></center>
                 </lil>
-            <lil><h2><center><a href="androidpatmdev@gmail.com">E-mail: Androidpatmdev@gmail.com</a>
+            <lil><h2><center><a href="mailto:androidpatmdev@gmail.com">E-mail: Androidpatmdev@gmail.com</a>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></center>
                 </lil>
             <lil><h2><p><center><font color="white">(781) 987-4188&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></center></p></lil>
